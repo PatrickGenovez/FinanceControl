@@ -1,3 +1,8 @@
+Stacks utilizadas
+
+Backend: Java, Spring Boot, Spring Data JPA
+Frontend:
+
 ### MINIMUNDO FINANCE-CONTROL ###
 
 O Finance Control será um sistema de controle financeiro pessoal desenvolvido para auxiliar usuários no gerenciamento das suas finanças.
